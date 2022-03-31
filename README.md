@@ -1,0 +1,2 @@
+# Tere
+Visualización de datos.
